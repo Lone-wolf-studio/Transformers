@@ -1,2 +1,1 @@
-from DatabaseTransform import MysqlTransform
-import Ui
+from transformer import Transform
